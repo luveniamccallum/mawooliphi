@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chijeiphud.vonwildsau.com/sitemap.xml
